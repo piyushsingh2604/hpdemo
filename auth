@@ -1,0 +1,18 @@
+
+
+Authorization token:
+eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjhiMDE4MDIyLTdmYzAtNDNhNi1iZDBjLTM5MzVkODc1ZGUyMyIsInN1YiI6Ikc2NDJuOVFzTlp0OUZpVHVwQzY1azZRTWpTSlQxRkVJU3F6MjA2ZEF5aTg9IiwiZW1haWwiOiJraXJhbi5zYXdhbnRAYW5qaXRhaXQuY29tIiwianRpIjoiNWI0YmE4NzAtZWIwMC00MWIyLWFjYjMtNDZmMmUzN2UxNDUzIiwibmJmIjoxNzMzMzkyNTExLCJleHAiOjE3NjQ5Mjg1MTEsImlhdCI6MTczMzM5MjUxMSwiaXNzIjoiaHR0cDovL2FkbWluLnBhcmxpYW1lbnQuaGVhbHRoLyIsImF1ZCI6Imh0dHA6Ly9hZG1pbi5wYXJsaWFtZW50LmhlYWx0aC8ifQ.wWz1UUrMBSKehZtZURSMYQCnJmRSKjeEraDr5O_yHSU2DRPLwQ9uZ_DsBleFX3LJjQhrwmziV8xKjSS3SWlDOA
+
+Request form data body:
+{
+   "img": list of multipart or null,
+   "pdfId": pdfID,
+   "discussionId": discussionId,
+   "userId":  "DLaVLOSzhZzYTKF9Eak4Pw==",
+   "title": title,
+   "body": body,
+   "tagsList": ‘’,
+   "source": source,
+   "taggedUsers": ‘’,
+   "metadata": ‘{}’,
+}
